@@ -5,5 +5,6 @@ Collaborative research workshop between ACEMS and the Bureau of Meteorology (BOM
 DATE: August 7th
 Location: Melbourne BOM office
 
-
-Please see the wiki page for details about the workshop and the issues page to contribute to discussions. 
+Programme & Workshop details are on the [wiki page](https://github.com/ACEMS/ACEM-BOM2017/wiki)
+Participant bios are [here](https://github.com/ACEMS/ACEM-BOM2017/wiki/Participant's-Bios)
+See research ideas [here](https://github.com/ACEMS/ACEM-BOM2017/issues) 
