@@ -7,9 +7,11 @@ This workshop will be hosted in Melbourne on August 7th, 2017 and aims to explor
 
 In order to make the best of the workshop time, presentations will be at a minimum and we will aim to spend at least 50% of the day working on addressing the methodological challenges relevant to the research themes.
 
+Please explore the [wiki](https://github.com/ACEMS/ACEM-BOM2017/wiki) and [issues](https://github.com/ACEMS/ACEM-BOM2017/issues) links at the top of this repository.
+
 ## Research Themes
 1. Extreme Value Analysis 
-2. Data Homogenisation
+2. Data Homogenisation   
 [further details...](https://github.com/ACEMS/ACEM-BOM2017/wiki/Research-Themes)
 
 
