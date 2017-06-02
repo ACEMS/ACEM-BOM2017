@@ -5,7 +5,7 @@ Welcome to the ACEM + BOM 2017 Collaborative Workshop!
 ## Workshop Aim
 This workshop will be hosted in Melbourne on August 7th, 2017 and aims to explore collaborative research opportunities between researchers from ACEMS and BOM. 
 
-In order to make the best of the workshop time, presentations will be at a minimum and we will aim to spend at least 50% of the day workshopping how these research challenges could be addressed. 
+In order to make the best of the workshop time, presentations will be at a minimum and we will aim to spend at least 50% of the day working on addressing the methodological challenges relevant to the research themes.
 
 ## Research Themes
 1. Extreme Value Analysis 
