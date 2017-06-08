@@ -12,7 +12,7 @@ Please explore the [wiki](https://github.com/ACEMS/ACEM-BOM2017/wiki) and [issue
 ## Research Themes
 1. Spatial analysis of extremem values 
 2. Blending of observational data 
-3. Statistical downscaling of climate models
+3. Statistical downscaling of climate models   
 [further details...](https://github.com/ACEMS/ACEM-BOM2017/wiki/Research-Themes)
 
 
