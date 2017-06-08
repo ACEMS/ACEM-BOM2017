@@ -1,9 +1,9 @@
 # ACEMS-BOM2017
-Welcome to the ACEM + BOM 2017 Collaborative Workshop!
+Welcome to the ACEM + the Bureau of Meteorology 2017 Collaborative Workshop!
 
 
 ## Workshop Aim
-This workshop will be hosted in Melbourne on August 7th, 2017 and aims to explore collaborative research opportunities between researchers from ACEMS and BOM. 
+This workshop will be hosted in Melbourne on August 7th, 2017 and aims to explore collaborative research opportunities between researchers from ACEMS and the Bureau of Meteorology. 
 
 In order to make the best of the workshop time, presentations will be at a minimum and we will aim to spend at least 50% of the day working on addressing the methodological challenges relevant to the research themes.
 
