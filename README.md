@@ -17,17 +17,17 @@ Please explore the [wiki](https://github.com/ACEMS/ACEM-BOM2017/wiki) and [issue
 
 
 ## Who Should Attend
-> * Any ACEMS researchers whose expertise could contribute to discussions around the above three research themes (other research topics are welcomed). 
-> * Any ACEMS researchers interested in collaborating with BOM, or who would benefit from access to BOM data. 
+* Any ACEMS researchers whose expertise could contribute to discussions around the above three research themes (other research topics are welcomed). 
+* Any ACEMS researchers interested in collaborating with BOM, or who would benefit from access to BOM data. 
 
 ## What Next 
 
-> * Please see the workshop program [here](https://github.com/ACEMS/ACEM-BOM2017/wiki/Workshop-Programme)(TBC)
-> * Register to attend the workshop [here](https://www.eventbrite.com/e/acems-bureau-of-meteorology-workshop-statistical-challenges-in-climatology-tickets-34868028211)
-> * please contact the Stakeholder Engagement Officer, Jessie Roberts, if you have any questions - jessie.roberts@qut.edu.au. 
+* Please see the workshop program [here](https://github.com/ACEMS/ACEM-BOM2017/wiki/Workshop-Programme)(TBC)
+* Register to attend the workshop [here](https://www.eventbrite.com/e/acems-bureau-of-meteorology-workshop-statistical-challenges-in-climatology-tickets-34868028211)
+* please contact the Stakeholder Engagement Officer, Jessie Roberts, if you have any questions - jessie.roberts@qut.edu.au. 
 
 ## Before You Arrive 
-> * Familiarise yourself with the bios of the other workshop participants. Your research interests will be added once you have registered for the workshop. 
-> * Familiarise yourself with the research topics, and why they are relevant to BOM. Further information can be found [here](https://github.com/ACEMS/ACEM-BOM2017/wiki/Research-Themes) (TBC)
-> * Add any research ideas or questions to the [Issues](https://github.com/ACEMS/ACEM-BOM2017/issues) page. 
+* Familiarise yourself with the bios of the other workshop participants. Your research interests will be added once you have registered for the workshop. 
+* Familiarise yourself with the research topics, and why they are relevant to BOM. Further information can be found [here](https://github.com/ACEMS/ACEM-BOM2017/wiki/Research-Themes) (TBC)
+* Add any research ideas or questions to the [Issues](https://github.com/ACEMS/ACEM-BOM2017/issues) page. 
 
