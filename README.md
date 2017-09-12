@@ -7,7 +7,7 @@ More details about the workshop can be found on the following pages:
 
 1. Project ideas can be seen here - https://padlet.com/jessiel_r/yt3u631kfei7
 2. Links to speakers presentations can be found on the prgramme page here - https://github.com/ACEMS/ACEMS-BOM2017/wiki/Workshop-Programme-&-Presentations
-3. You can contribute to individual project discussions on the issues page here - https://github.com/ACEMS/ACEMS-BOM2017/issues   
+3. You can contribute to, or create a project discussion, on the [Issues Page](https://github.com/ACEMS/ACEMS-BOM2017/issues) (You will need a GitHub account to comment).    
 
 **Next Step**    
 Jessie Roberts will be in touch with the project lead for each of the first priority projects. Further details coming soon. 
