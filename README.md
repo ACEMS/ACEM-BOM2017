@@ -10,4 +10,4 @@ More details about the workshop can be found on the following pages:
 3. You can contribute to individual project discussions on the issues page here - https://github.com/ACEMS/ACEMS-BOM2017/issues   
 
 **Next Step**    
-Jessie Roberts will be in touch with the project lead for each of the first priority project that was identified to discuss the next steps. 
+Jessie Roberts will be in touch with the project lead for each of the first priority projects. Further details coming soon. 
